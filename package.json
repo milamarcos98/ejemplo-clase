@@ -1,0 +1,31 @@
+{
+  "name": "clase 3",
+  "version": "1.0.0",
+  "description": "clase 3 de ah",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "clase3"
+  ],
+  "author": "Camila Marcos <camila.marcos@davinci.edu.ar>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "url del repo en github"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=6.0.0"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.4"
+  }
+}
